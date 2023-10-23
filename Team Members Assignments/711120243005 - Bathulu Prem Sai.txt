@@ -3,4 +3,4 @@ Assignment-2 : Blog -- https://visitmyqandq.blogspot.com
 Assignment-3 : Email news letter -- https://www.blogger.com/blog/post/edit/5295114848145435089/7132087221075954596
                Infographic -- https://www.blogger.com/blog/post/edit/5295114848145435089/3024221385156878653
 Assignment-4 : Google Analytics Measurement ID -- G-PF6HC6SKN8
-Project Final Link :
+Project Final Link : https://github.com/bunnyreddy491/Naan-mudhalvan-Project-Digital-Marketing
